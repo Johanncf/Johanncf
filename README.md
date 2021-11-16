@@ -2,13 +2,13 @@
 
   <p>
     🤖 Sou estudante de Nanotecnologia pela UFRJ<br>
-    💻 Fullstack DEV em formação pelo DEVinHouse - SENAI/SC 
+    💻 DEV Fullstack em formação pelo DEVinHouse - SENAI/SC 
   <img src="http://vignette3.wikia.nocookie.net/farmville/images/8/8a/Science_Enthusiast_Chimp-icon.png/revision/latest?cb=20150926140100" max-width="200px" width="200px" align="right" alt="Science enthusiast">
   </p>
   <h3>Sobre mim:</h3>
   <ul>
     <li>Sou apaixonado por tecnologia e vivo em constante busca por aprendizado.</li>
-    <li>Atualmente desejo entrar no mercado de tech e desenvolver minha habilidades de programação.</li>
+    <li>Atualmente desejo entrar no mercado de tech e desenvolver minhas habilidades de programação.</li>
   </ul>
  
 <br><br>
@@ -27,6 +27,7 @@
   <img align="center" alt="Johann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
+  <br><br>
   <p align="left" color="white">
  ✉️ Entre em contato: ⤵️
 </p>
@@ -35,8 +36,8 @@
   <a href="mailto:johanncf@metalmat.ufrj.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=johanncf@metalmat.ufrj.br" /></a>
 
-  <a href="linkedin.com/in/johann-carlos-645bb7162" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/johann-carlos-645bb7162" /></a>
+  <a href="https://www.linkedin.com/in/johann-carlos-645bb7162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-carlos-645bb7162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=+5521991952066&text=" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521991952066&text="/></a>
