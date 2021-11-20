@@ -3,7 +3,6 @@
   <p>
     🤖 Sou estudante de Nanotecnologia pela UFRJ<br>
     💻 DEV Fullstack em formação pelo DEVinHouse - SENAI/SC 
-  <img src="http://vignette3.wikia.nocookie.net/farmville/images/8/8a/Science_Enthusiast_Chimp-icon.png/revision/latest?cb=20150926140100" max-width="200px" width="200px" align="right" alt="Science enthusiast">
   </p>
   <h3>Sobre mim:</h3>
   <ul>
