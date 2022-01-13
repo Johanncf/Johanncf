@@ -1,7 +1,7 @@
 ### Salve DEV, eu sou o Johann! 👋
 
   <p>
-    🤖 Sou estudante de Nanotecnologia pela UFRJ<br>
+    🤖 Bacharel em Nanotecnologia pela UFRJ<br>
     💻 DEV Fullstack em formação pelo DEVinHouse - SENAI/SC 
   </p>
   <h3>Sobre mim:</h3>
