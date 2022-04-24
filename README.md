@@ -7,7 +7,8 @@
   <h3>Sobre mim:</h3>
   <ul>
     <li>Sou apaixonado por tecnologia e vivo em constante busca por aprendizado.</li>
-    <li>Atualmente desejo entrar no mercado de tech e desenvolver minhas habilidades de programação.</li>
+    <li>Atualmente desenvolvo web crawlers utilizando python e frameworks como Scrapy e Selenium.</li>
+    <li>Estou aprimorando meus conhecimentos de backend com Dotnet e C#.</li>
   </ul>
  
 <br><br>
@@ -18,12 +19,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johanncf&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Johann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Johann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Johann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/dotnet-original.svg">
   <img align="center" alt="Johann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Johann-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Johann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Johann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Johann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Johann-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   <br><br>
