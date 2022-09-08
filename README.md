@@ -6,9 +6,9 @@
   </p>
   <h3>Sobre mim:</h3>
   <ul>
-    <li>Sou apaixonado por tecnologia e vivo em constante busca por aprendizado.</li>
-    <li>Atualmente desenvolvo aplicações backend para aquisição de dados utilizando python e C#.</li>
-    <li>Continuamente estudando backend e data science. </li>
+    <li>Encontrei na tecnologia meu propósito 🤓</li>
+    <li>Atualmente desenvolvo aplicações backend para aquisição de dados utilizando python e C# 🛠</li>
+    <li>Continuamente estudando backend e data science 📈</li>
   </ul>
  
 <br><br>
