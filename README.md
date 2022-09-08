@@ -8,7 +8,8 @@
   <ul>
     <li>Encontrei na tecnologia meu propósito 🤓</li>
     <li>Atualmente desenvolvo aplicações backend para aquisição de dados utilizando python e C# 🛠</li>
-    <li>Continuamente estudando backend e data science 📈</li>
+    <li>Continuamente estudando boas práticas de programação e arquitetura 🚀</li>
+    <li>Nas horas vagas estudo data science 📈</li>
   </ul>
  
 <br><br>
