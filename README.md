@@ -2,13 +2,13 @@
 
   <p>
     🤖 Bacharel em Nanotecnologia pela UFRJ<br>
-    💻 DEV Fullstack em formação pelo DEVinHouse - SENAI/SC 
+    💻 DEV Fullstack pelo DEVinHouse - SENAI/SC 
   </p>
   <h3>Sobre mim:</h3>
   <ul>
     <li>Sou apaixonado por tecnologia e vivo em constante busca por aprendizado.</li>
-    <li>Atualmente desenvolvo web crawlers utilizando python e frameworks como Scrapy e Selenium.</li>
-    <li>Estou aprimorando meus conhecimentos de backend com Dotnet e C#.</li>
+    <li>Atualmente desenvolvo aplicações backend para aquisição de dados utilizando python e C#.</li>
+    <li>Continuamente estudando backend e data science. </li>
   </ul>
  
 <br><br>
